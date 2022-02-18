@@ -1,0 +1,12 @@
+.social-links{
+    transform: center;
+    position: absolute;
+    left: -80px;
+    bottom: 180;
+}
+.social-links a{
+    text-decoration: none;
+    color: #2a2f4e;
+    display: block;
+    font-size: 14px;
+}
